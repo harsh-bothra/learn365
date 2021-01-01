@@ -3,9 +3,6 @@
 This repo is about [Harsh Bothra](twitter.com/@harshbothra_) **365** days of learning Tweet &amp; Mindmap collection
 ___
 
-Day | Topic
---- | --- | ---
-**1** | 
 
 Markdown | Less | Pretty
 --- | --- | ---
