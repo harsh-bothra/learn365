@@ -10,7 +10,7 @@ Change it to "success":true
 ### Status Code Manipulation
 
 
->If Status Code is 4xx
+>If Status Code is 4xx \
 Try to change it to 200 OK and see if it bypass restrictions
 
 ### 2FA Code Leakage in Response
@@ -44,8 +44,8 @@ Try to change it to 200 OK and see if it bypass restrictions
 
 ### Backup Code Abuse
 
->Bypassing 2FA by abusing the Backup code feature. 
-Use the above-mentioned techniques to bypass Backup Code to remove/reset 2FA restrictions
+>Bypassing 2FA by abusing the Backup code feature. \
+Use the above mentioned techniques to bypass Backup Code to remove/reset 2FA restrictions
 
 ### Clickjacking on 2FA Disabling Page
 
