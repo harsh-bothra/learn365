@@ -4,7 +4,6 @@ This repo is about [Harsh Bothra](twitter.com/@harshbothra_) **365** days of lea
 ___
 
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | [2FA Bypass Techniques](/day1.md)
-1 | 2 | 3
+Day | Topic
+--- | ---
+**1** |  [2FA Bypass Techniques](/day1.md)
