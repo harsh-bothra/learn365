@@ -5,9 +5,9 @@ ___
 
 Day | Topic
 --- | --- | ---
-**1** | [2FA Bypass Techniques](/day1.md)
+**1** | 
 
 Markdown | Less | Pretty
 --- | --- | ---
-*Still* | `renders` | **nicely**
+*Still* | `renders` | [2FA Bypass Techniques](/day1.md)
 1 | 2 | 3
