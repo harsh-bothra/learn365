@@ -1,6 +1,6 @@
 # learn365
 
-This repo is about [Harsh Bothra](twitter.com/@harshbothra_) **365** days of learning Tweet &amp; Mindmap collection
+This repo is about [Harsh Bothra](https://twitter.com/@harshbothra_) **365** days of learning Tweet &amp; Mindmap collection
 ___
 
 
