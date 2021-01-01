@@ -4,7 +4,7 @@ This repo is about @harshbothra_ 365 days of learning Tweet &amp; Mindmap collec
 
 ### Days List
 
-* Day 1 : [2FA Bypass Techniques](https://github.com/remonsec/learn365/day1.md)
+* Day 1 : [2FA Bypass Techniques](./day1.md)
 * Day 2 :
 * Day 3 :
 * Day 4 :
