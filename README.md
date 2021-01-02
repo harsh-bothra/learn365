@@ -7,4 +7,4 @@ ___
 Day | Topic
 --- | ---
 **1** |  [2FA Bypass Techniques](/day1.md)
-**2** | [Regular Expression Denial of Service](/day2.md)
+**2** | [Regular Expression Denial Of Service](/day2.md)
