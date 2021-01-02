@@ -16,6 +16,7 @@ Index | Technique
 **10** | Backup Code Abuse
 **11** | Clickjacking on 2FA Disabling Page
 **12** | Enabling 2FA doesn't expire Previously active Sessions
+**13** | Bypass 2FA with null or 000000
 ___
 #### Response Manipulation
 ```
@@ -69,4 +70,8 @@ Iframing the 2FA Disabling page and social engineering victim to disable the 2FA
 #### Enabling 2FA doesn't expire Previously active Sessions
 ```
 If the session is already hijacked and there is a session timeout vuln
+```
+#### Bypass 2FA with null or 000000
+```
+Enter the code 000000 or null to bypass 2FA protection.
 ```
