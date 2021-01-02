@@ -41,7 +41,6 @@ Some of the good websites to learn about Regex are
 https://rexegg.com
 https://regexone.com
 https://speakerdeck.com/harshbothra/having-fun-with-regex
-
 ```
 #### Prevention
 ```
@@ -51,5 +50,4 @@ https://regular-expressions.info/redos.html
 ```
 https://hackerone.com/reports/511381
 https://hackerone.com/reports/661722
-
 ```
