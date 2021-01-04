@@ -71,6 +71,7 @@ Attacker Token is used to login to Victim Account.
 ```
 #### Labs & Resources
 
+* https://research.aurainfosec.io/bypassing-saml20-SSO/
 * https://github.com/yogisec/VulnerableSAMLApp
 * https://github.com/dogangcr/vulnerable-sso
 * http://sso-attacks.org/Category:Attack_Categorisation_By_Attack_on_SAML
