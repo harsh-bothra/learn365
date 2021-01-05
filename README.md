@@ -9,4 +9,5 @@ Day | Topic
 **1** |  [2FA Bypass Techniques](/day1.md)
 **2** | [Regular Expression Denial Of Service](/day2.md)
 **3** | [SAML Vulnerabilities](/day3.md)
-**4** | [Client-Side Template Injection(CSTI)](/day4.md)
+**4** | [Unauthenticated & Exploitable JIRA Vulnerabilities ](/day4.md)
+**5** | [Client-Side Template Injection(CSTI)](/day5.md)
