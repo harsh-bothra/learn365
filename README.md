@@ -12,3 +12,6 @@ Day | Topic
 **4** | [Unauthenticated & Exploitable JIRA Vulnerabilities ](/day4.md)
 **5** | [Client-Side Template Injection(CSTI)](/day5.md)
 **6** | [Cross-Site Leaks (XS-Leaks)](/day6.md)
+**7** | [Cross-Site Script Includes (XSSI)](/day7.md)
+**8** | [JSON Padding Attacks](/day8.md)
+**9** | [JSON Attacks](/day9.md)
