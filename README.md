@@ -15,3 +15,5 @@ Day | Topic
 **7** | [Cross-Site Script Includes (XSSI)](/day7.md)
 **8** | [JSON Padding Attacks](/day8.md)
 **9** | [JSON Attacks](/day9.md)
+**10** | [Abusing Hop-by-Hop Headers](/day10.md)
+**11** | [](/day11.md)
