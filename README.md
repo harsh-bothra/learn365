@@ -18,3 +18,4 @@ Day | Topic
 **10** | [Abusing Hop-by-Hop Headers](/days/day10.md)
 **11** | [Cache Poisoned Denial of Service (CPDos)](/days/day11.md)
 **12** | [Unicode Normalization](/days/day12.md)
+**13** | [WebSocket Vulns](/days/day13.md)
