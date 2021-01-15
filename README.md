@@ -17,3 +17,4 @@ Day | Topic
 **9** | [JSON Attacks](/day9.md)
 **10** | [Abusing Hop-by-Hop Headers](/day10.md)
 **11** | [Cache Poisoned Denial of Service (CPDos)](/day11.md)
+**12** | [Unicode Normalization](/day12.md)
