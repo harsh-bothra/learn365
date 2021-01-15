@@ -1,7 +1,7 @@
 #  Unicode Normalization
 
 This attack is hard to explain with out proper graphics. \
-Please refer to the references mentioned for a detailed explanation. \ 
+Please refer to the references mentioned for a detailed explanation. \
 This is a really good attack vector to try and consider while doing PT/BB.
 
 ___
