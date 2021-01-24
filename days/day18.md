@@ -5,7 +5,7 @@ Index | Section
 **1** | [About the attack](#About-the-attack)
 **2** | [Scenario](#Scenario)
 **3** | [How to test](#How-to-test)
-**3.1*** | [Steps](#Steps)
+**3.1** | [Steps](#Steps)
 **4** | [What can be achieved](#What-can-be-achieved)
 **5** | [How to test](#How-to-test)
 ___
