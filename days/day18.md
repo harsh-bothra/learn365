@@ -8,6 +8,8 @@ Index | Section
 **3.1** | [Steps](#Steps)
 **4** | [What can be achieved](#What-can-be-achieved)
 **5** | [How to test](#How-to-test)
+**6** | [Practice](#Practice)
+**7** | [References](#References)
 ___
 
 ### About the attack
