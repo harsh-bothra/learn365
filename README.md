@@ -23,3 +23,4 @@ Day | Topic
 **15** | [WebSocket Vulns (Part-3)](/days/day15.md)
 **16** | [Web Cache Deception Attack](/days/day16.md)
 **17** | [Session Puzzling Attack](/days/day17.md)
+**18** | [Mass Assignment Attack](/days/day18.md)
