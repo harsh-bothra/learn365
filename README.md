@@ -36,3 +36,4 @@ Day | Topic
 **28** | [Common Business Logic Issues: Part-1](/days/day28.md)
 **29** | [Common Business Logic Issues (Part-2)](/days/day29.md)
 **30** | [Common Business Logic Issues (Wrap)](/days/day30.md)
+**31** | [Captcha Bypass Techniques](/days/day31.md)
