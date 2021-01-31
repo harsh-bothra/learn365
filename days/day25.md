@@ -2,8 +2,7 @@
 
 Index | Section
 --- | ---
-**1** | [About the attack](#About-the-attack)
-**2** | [Scenario](#Scenario)
+**1** | [Scenario](#Scenario)
 ___
 
 ### Scenario
