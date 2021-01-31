@@ -24,3 +24,8 @@ Day | Topic
 **16** | [Web Cache Deception Attack](/days/day16.md)
 **17** | [Session Puzzling Attack](/days/day17.md)
 **18** | [Mass Assignment Attack](/days/day18.md)
+**19** | [HTTP Parameter Pollution](/days/day19.md)
+**20** | [GraphQL Series Part - 1](/days/day20.md)
+**21** | [GraphQL Vulnerabilities (Part-2)](/days/day21.md)
+**22** | [GraphQL Part - 3 WrapUp](/days/day22.md)
+**23** | [Password Reset Token Issues](/days/day23.md)
