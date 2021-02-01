@@ -18,7 +18,7 @@ Index | Technique
 **12**| Reports
 
 ___
-#### CVE-2019-8442 (Sensitive Information Disclosure)
+#### CVE-2020-14179 (Sensitive Information Disclosure)
 ```
 a. Navigate to <JIRA_URL>/secure/QueryComponent!Default.jspa
 b. It leaks information about custom fields, custom SLA, etc.
