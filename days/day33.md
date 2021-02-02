@@ -29,6 +29,9 @@ ___
 	{"errors":[{"code":"UNAUTHORIZED","message":"authentication required","detail":[{"Type":"registry","Class":"","Name":"catalog","Action":"*"}]}]}
 - Do not forget scanning TCP port 5000 on which usually this service is deployed.
 
+=======
+- If you can access GET /v2/<name>/tags/list then try bruteforcing <name> and see what all resources of docker registry you can access. Visit the https://docs.docker.com/registry/spec/api/ URL for more resources to list and bruteforce.
+
 ```
 
 #### Security Issues
