@@ -27,7 +27,7 @@ ___
 - If you access /v2/_catalog you may obtain:
 	{"repositories":["alpine","ubuntu"]}
 	{"errors":[{"code":"UNAUTHORIZED","message":"authentication required","detail":[{"Type":"registry","Class":"","Name":"catalog","Action":"*"}]}]}
-
+- If you can access GET /v2/<name>/tags/list then try bruteforcing <name> and see what all resources of docker registry you can access. Visit the https://docs.docker.com/registry/spec/api/ URL for more resources to list and bruteforce.
 ```
 
 #### Security Issues
