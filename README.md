@@ -38,4 +38,4 @@ Day | Topic
 **30** | [Common Business Logic Issues (Wrap)](/days/day30.md)
 **31** | [Captcha Bypass Techniques](/days/day31.md)
 **32** | [Pentesting Kibana Service](/days/day32.md)
-**32** | [Pentesting Docker Registry](/days/day33.md)
+**33** | [Pentesting Docker Registry](/days/day33.md)
