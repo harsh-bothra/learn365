@@ -27,6 +27,7 @@ ___
 - If you access /v2/_catalog you may obtain:
 	{"repositories":["alpine","ubuntu"]}
 	{"errors":[{"code":"UNAUTHORIZED","message":"authentication required","detail":[{"Type":"registry","Class":"","Name":"catalog","Action":"*"}]}]}
+- Do not forget scanning TCP port 5000 on which usually this service is deployed.
 
 ```
 
