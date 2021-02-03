@@ -39,3 +39,5 @@ Day | Topic
 **31** | [Captcha Bypass Techniques](/days/day31.md)
 **32** | [Pentesting Kibana Service](/days/day32.md)
 **33** | [Pentesting Docker Registry](/days/day33.md)
+**34** | [HTML Scriptless Attacks / Dangling Markup Attacks (Part - 1)](/days/day34.md)
+
