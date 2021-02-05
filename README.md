@@ -41,3 +41,4 @@ Day | Topic
 **33** | [Pentesting Docker Registry](/days/day33.md)
 **34** | [HTML Scriptless Attacks / Dangling Markup Attacks (Part - 1)](/days/day34.md)
 **35** | [HTML Scriptless Attacks / Dangling Markup Attacks (Wrap)](/days/day35.md)
+**36** | [Pentesting Rsync Service](/days/day36.md)
