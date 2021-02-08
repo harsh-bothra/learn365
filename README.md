@@ -44,4 +44,5 @@ Day | Topic
 **36** | [Pentesting Rsync Service](/days/day36.md)
 **37** | [CRLF Injection](/days/day37.md)
 **38** | [Pentesting FTP Service](/days/day38.md)
+**39** | [OpenID Connect Implementation Issues](/days/day39.md)
 
