@@ -45,4 +45,5 @@ Day | Topic
 **37** | [CRLF Injection](/days/day37.md)
 **38** | [Pentesting FTP Service](/days/day38.md)
 **39** | [OpenID Connect Implementation Issues](/days/day39.md)
+**40** | [Cookie Based Authentication Vulnerabilities](/days/day40.md)
 
