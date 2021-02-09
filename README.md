@@ -4,9 +4,9 @@ This repository contains all the information shared during my Learn 365 Challeng
 ___
 S.NO | Mind Map
 --- | ---
-**1** |  [2FA Bypass Techniques](/MindMaps/)
-**2** |  [Scope Based Recon](/MindMaps/Scope_Based_Recon.PNG)
-**3** |  [Cookie Based Authentication Vulnerabilities](/MindMaps/Cookie_Based_Authentication_Vulnerabilities.PNG)
+**1** |  [2FA Bypass Techniques](https://www.mindmeister.com/1736437018/2fa-bypass-techniques?fullscreen=1)
+**2** |  [Scope Based Recon](https://www.xmind.net/m/hKKexj/)
+**3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D)
 
 ___
 Day | Topic
