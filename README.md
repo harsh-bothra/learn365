@@ -5,8 +5,8 @@ ___
 S.NO | Mind Map
 --- | ---
 **1** |  [2FA Bypass Techniques](/MindMaps/)
-**2** |  [Scope Based Recon](/MindMaps/Scope Based Recon.PNG)
-**3** |  [Cookie Based Authentication Vulnerabilities](/MindMaps/Cookie Based Authentication Vulnerabilities.PNG)
+**2** |  [Scope Based Recon](/MindMaps/Scope_Based_Recon.PNG)
+**3** |  [Cookie Based Authentication Vulnerabilities](/MindMaps/Cookie_Based_Authentication_Vulnerabilities.PNG)
 
 ___
 Day | Topic
