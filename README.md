@@ -2,8 +2,13 @@
 
 This repository contains all the information shared during my Learn 365 Challenge. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/harshbothra_). Huge thanks to [Mehedi Hasan Remon](https://twitter.com/remonsec), who originally created and maintained this repository. 
 ___
+S.NO | Mind Map
+--- | ---
+**1** |  [2FA Bypass Techniques](/MindMaps/)
+**2** |  [Scope Based Recon](/MindMaps/Scope Based Recon.PNG)
+**3** |  [Cookie Based Authentication Vulnerabilities](/MindMaps/Cookie Based Authentication Vulnerabilities.PNG)
 
-
+___
 Day | Topic
 --- | ---
 **1** |  [2FA Bypass Techniques](/days/day1.md)
