@@ -52,4 +52,6 @@ Day | Topic
 **39** | [OpenID Connect Implementation Issues](/days/day39.md)
 **40** | [Cookie Based Authentication Vulnerabilities](/days/day40.md)
 **41** | [Cobalt Vulnerability Wiki](/days/day41.md)
+**42** | [Race Conditions](/days/day42.md)
+
 
