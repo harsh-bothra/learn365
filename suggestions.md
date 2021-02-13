@@ -8,5 +8,9 @@ S.No. | Topic for Learn365
 --- | ---
 **1** |  File Upload Bypass Techniques
 **2** |  XML External Entities
-**3** |  ADD_HERE
-
+**3** |  Active Directory Pentesting
+**4** |  Android Application Pentesting
+**5** |  iOS Application Pentesting
+**6** |  Thick Client Pentesting
+**7** |  Cloud Configuration Review
+**8** |  <ADD_HERE>

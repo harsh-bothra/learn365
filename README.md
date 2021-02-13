@@ -7,7 +7,7 @@ S.NO | Mind Map
 **1** |  [2FA Bypass Techniques](https://www.mindmeister.com/1736437018/2fa-bypass-techniques?fullscreen=1)
 **2** |  [Scope Based Recon](https://www.xmind.net/m/hKKexj/)
 **3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D)
-
+**4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png)
 ___
 Day | Topic
 --- | ---
@@ -54,5 +54,5 @@ Day | Topic
 **41** | [Cobalt Vulnerability Wiki](/days/day41.md)
 **42** | [Race Conditions](/days/day42.md)
 **43** | [SMTP Open Relay Attack](/days/day43.md)
-
+**44** | [Pentesting BACNet](/days/day43.md)
 
