@@ -55,4 +55,5 @@ Day | Topic
 **42** | [Race Conditions](/days/day42.md)
 **43** | [SMTP Open Relay Attack](/days/day43.md)
 **44** | [Pentesting BACNet](/days/day44.md)
+**45** | [API Security Tips](/days/day45.md)
 
