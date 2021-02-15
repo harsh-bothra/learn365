@@ -56,4 +56,5 @@ Day | Topic
 **43** | [SMTP Open Relay Attack](/days/day43.md)
 **44** | [Pentesting BACNet](/days/day44.md)
 **45** | [API Security Tips](/days/day45.md)
+**46** | [Pentesting SSH Part - 1](/days/day46.md)
 
