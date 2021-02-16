@@ -70,7 +70,7 @@ c. Intranets and CORS without credentials
 ```
 
 
-# Labs 
+#### Labs 
 ```
 - https://portswigger.net/web-security/cors
 ```
