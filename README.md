@@ -58,4 +58,5 @@ Day | Topic
 **45** | [API Security Tips](/days/day45.md)
 **46** | [Pentesting SSH](/days/day46.md)
 **47** | [CORS Misconfiguration](/days/day47.md)
+**48** | [Incomplete Trailing Escape Pattern Issue](/days/day48.md)
 
