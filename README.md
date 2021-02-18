@@ -59,4 +59,5 @@ Day | Topic
 **46** | [Pentesting SSH](/days/day46.md)
 **47** | [CORS Misconfiguration](/days/day47.md)
 **48** | [Incomplete Trailing Escape Pattern Issue](/days/day48.md)
+**49** | [Pivoting & Exploitation in Docker Environments](/days/day49.md)
 
