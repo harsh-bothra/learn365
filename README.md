@@ -60,4 +60,6 @@ Day | Topic
 **47** | [CORS Misconfiguration](/days/day47.md)
 **48** | [Incomplete Trailing Escape Pattern Issue](/days/day48.md)
 **49** | [Pivoting & Exploitation in Docker Environments](/days/day49.md)
+**50** | [Detect Complex Code Patterns using Semantic grep](/days/day50.md)
+**51** | [Student Roadmap to Become a Pentester](/days/day51.md)
 
