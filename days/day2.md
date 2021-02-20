@@ -41,6 +41,7 @@ Some of the good websites to learn about Regex are
 https://rexegg.com
 https://regexone.com
 https://speakerdeck.com/harshbothra/having-fun-with-regex
+https://javascript.info/regexp-catastrophic-backtracking
 ```
 #### Prevention
 ```
