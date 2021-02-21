@@ -62,4 +62,5 @@ Day | Topic
 **49** | [Pivoting & Exploitation in Docker Environments](/days/day49.md)
 **50** | [Detect Complex Code Patterns using Semantic grep](/days/day50.md)
 **51** | [Student Roadmap to Become a Pentester](/days/day51.md)
+**52** | [Hacking How-To Series](/days/day52.md)
 
