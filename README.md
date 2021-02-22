@@ -63,4 +63,4 @@ Day | Topic
 **50** | [Detect Complex Code Patterns using Semantic grep](/days/day50.md)
 **51** | [Student Roadmap to Become a Pentester](/days/day51.md)
 **52** | [Hacking How-To Series](/days/day52.md)
-
+**53** | [JS Prototype Pollution](/days/day53.md)
