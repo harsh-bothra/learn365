@@ -65,4 +65,6 @@ Day | Topic
 **52** | [Hacking How-To Series](/days/day52.md)
 **53** | [JS Prototype Pollution](/days/day53.md)
 **54** | [JSON Deserialization Attacks](/days/day54.md)
+**55** | [Android App Dynamic Analysis using House](/days/day55.md)
 
+ 
