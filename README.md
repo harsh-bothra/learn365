@@ -67,4 +67,5 @@ Day | Topic
 **54** | [JSON Deserialization Attacks](/days/day54.md)
 **55** | [Android App Dynamic Analysis using House](/days/day55.md)
 **56** | [Testing IIS Servers](/days/day56.md)
+**57** | [Secure Code Review Talk](/days/day57.md)
  
