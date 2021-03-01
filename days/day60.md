@@ -3,9 +3,9 @@ Index | Section
 --- | ---
 **1** | Introduction
 **2** | Common Use-Cases
-**2** | Attack Vectors
-**3** | Vulnerable Code Snippets
-**4** | References & Good Reads
+**3** | Attack Vectors
+**4** | Vulnerable Code Snippets
+**5** | References & Good Reads
 
 ___
 
@@ -97,7 +97,7 @@ xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 ```
 
-#### References 
+#### References & Good Reads
 
 ```
 a.  https://www.contextis.com/en/blog/xslt-server-side-injection-attacks
