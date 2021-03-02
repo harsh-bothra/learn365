@@ -71,3 +71,4 @@ Day | Topic
 **58** | [JSON Interoperability Vulnerabilities](/days/day58.md)
 **59** | [HTTP Desync Attacks](/days/day59.md)
 **60** | [XSLT Injection](/days/day60.md)
+**61** | [Bypassing AWS Policies](/days/day61.md)
