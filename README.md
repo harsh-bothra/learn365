@@ -73,3 +73,5 @@ Day | Topic
 **60** | [XSLT Injection](/days/day60.md)
 **61** | [Bypassing AWS Policies](/days/day61.md)
 **62** | [Source Code Review Guidelines](/days/day62.md)
+**63** | [All of the Threats: Intelligence, Modelling and Hunting](/days/day63.md)
+
