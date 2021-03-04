@@ -1,7 +1,6 @@
 # All of the Threats: Intelligence, Modelling and Hunting 
 Index | Section
 --- | ---
-
 **1** | Learning Resource
 
 ___

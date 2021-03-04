@@ -74,4 +74,5 @@ Day | Topic
 **61** | [Bypassing AWS Policies](/days/day61.md)
 **62** | [Source Code Review Guidelines](/days/day62.md)
 **63** | [All of the Threats: Intelligence, Modelling and Hunting](/days/day63.md)
+**64** | [Hidden Property Abuse (HPA) attack in Node.js](/days/day64.md)
 
