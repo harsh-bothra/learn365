@@ -76,4 +76,5 @@ Day | Topic
 **63** | [All of the Threats: Intelligence, Modelling and Hunting](/days/day63.md)
 **64** | [Hidden Property Abuse (HPA) attack in Node.js](/days/day64.md)
 **65** | [HTTP Request Smuggling in 2020](/days/day65.md)
+**66** | [Dependecy Confusion Attack](/days/day66.md)
 
