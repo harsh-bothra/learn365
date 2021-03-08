@@ -77,4 +77,5 @@ Day | Topic
 **64** | [Hidden Property Abuse (HPA) attack in Node.js](/days/day64.md)
 **65** | [HTTP Request Smuggling in 2020](/days/day65.md)
 **66** | [Dependecy Confusion Attack](/days/day66.md)
+**67** | [Format String Vulnerabilities](/days/day67.md)
 
