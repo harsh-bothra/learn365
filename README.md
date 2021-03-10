@@ -79,4 +79,5 @@ Day | Topic
 **66** | [Dependecy Confusion Attack - Blog](/days/day66.md)
 **67** | [Format String Vulnerabilities - Webinar](/days/day67.md)
 **68** | [Mobile Application Dynamic Analysis - Webinar](/days/day68.md)
+**69** | [Insecure Deserialization - Talk](/days/day69.md)
 
