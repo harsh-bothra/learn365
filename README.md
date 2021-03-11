@@ -80,5 +80,6 @@ Day | Topic
 **67** | [Format String Vulnerabilities - Webinar](/days/day67.md)
 **68** | [Mobile Application Dynamic Analysis - Webinar](/days/day68.md)
 **69** | [Insecure Deserialization - Talk](/days/day69.md)
-**69** | [Web Cache Entanglement - Talk + Blog](/days/day70.md)
+**70** | [Web Cache Entanglement - Talk + Blog](/days/day70.md)
+**71** | [OWASP AMASS - Bootcamp](/days/day71.md)
 
