@@ -82,4 +82,6 @@ Day | Topic
 **69** | [Insecure Deserialization - Talk](/days/day69.md)
 **70** | [Web Cache Entanglement - Talk + Blog](/days/day70.md)
 **71** | [OWASP AMASS - Bootcamp](/days/day71.md)
+**72** | [Offensive Javascript Techniques for Red Teamers](/days/day72.md)
+
 
