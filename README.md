@@ -83,5 +83,6 @@ Day | Topic
 **70** | [Web Cache Entanglement - Talk + Blog](/days/day70.md)
 **71** | [OWASP AMASS - Bootcamp](/days/day71.md)
 **72** | [Offensive Javascript Techniques for Red Teamers](/days/day72.md)
-
+**73** | [Basic CMD for Pentesters - Cheatsheet](/days/day73.md)
+**74** | [Investigating and Defending Office 365 - Talk](/days/day74.md)
 
