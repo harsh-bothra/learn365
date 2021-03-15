@@ -85,4 +85,5 @@ Day | Topic
 **72** | [Offensive Javascript Techniques for Red Teamers](/days/day72.md)
 **73** | [Basic CMD for Pentesters - Cheatsheet](/days/day73.md)
 **74** | [Investigating and Defending Office 365 - Talk](/days/day74.md)
+**75** | [WinjaCTF 2021 Solutions - Blog](/days/day75.md)
 
