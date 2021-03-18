@@ -87,4 +87,5 @@ Day | Topic
 **74** | [Investigating and Defending Office 365 - Talk](/days/day74.md)
 **75** | [WinjaCTF 2021 Solutions - Blog](/days/day75.md)
 **76** | [Kubernetes Security: Attacking and Defending K8s Clusters - Talk](/days/day76.md)
+**77** | [AWS Cloud Security - Resources](/days/day77.md)
 
