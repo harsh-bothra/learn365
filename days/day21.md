@@ -6,6 +6,7 @@ Index | Section
 **2** | [GraphQL Denial of Service](#GraphQL-Denial-of-Service)
 **3** | [Insecure Direct Object Reference](#Insecure-Direct-Object-Reference)
 **4** | [Good Burp Extensions ](#Good-Burp-Extensions)
+**4** | [Labs ](#Labs)
 **5** | [References](#References)
 ___
 
@@ -34,6 +35,12 @@ ___
 ```
 - InQL 
 - GraphQL Raider
+```
+
+### Labs
+
+```
+- https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
 ```
 
 ### References
