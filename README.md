@@ -90,4 +90,5 @@ Day | Topic
 **77** | [AWS Cloud Security - Resources](/days/day77.md)
 **78** | [WAF Evasion Techniques - Blog](/days/day78.md)
 **79** | [File Inclusion - All-in-One](/days/day79.md)
+**79** | [DockerENT Insights - Tool Demo Talk](/days/day80.md)
 
