@@ -92,6 +92,7 @@ Day | Topic
 **79** | [File Inclusion - All-in-One](/days/day79.md)
 **80** | [DockerENT Insights - Tool Demo Talk](/days/day80.md)
 **81** | [ImageMagick - Shell injection via PDF password : Research Blog](/days/day81.md)
-**82** | [Offensive GraphQL API Pentesting: Talk](/days/day82.md)
+**82** | [Offensive GraphQL API Pentesting - Talk](/days/day82.md)
+**83** | [Bug Bounties with Bash - Talk](/days/day83.md)
 
 
