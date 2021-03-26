@@ -95,5 +95,6 @@ Day | Topic
 **82** | [Offensive GraphQL API Pentesting - Talk](/days/day82.md)
 **83** | [Bug Bounties with Bash - Talk](/days/day83.md)
 **84** | [Chrome Extensions Code Review - Talk](/days/day84.md)
+**85** | [Server-Side Template Injection - Talk](/days/day85.md)
 
 
