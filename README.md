@@ -97,5 +97,6 @@ Day | Topic
 **84** | [Chrome Extensions Code Review - Talk](/days/day84.md)
 **85** | [Server-Side Template Injection - Talk](/days/day85.md)
 **86** | [Exploiting GraphQL - Blog](/days/day86.md)
+**87** | [Exploiting Email Systems - Talk](/days/day87.md)
 
 
