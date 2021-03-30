@@ -99,6 +99,6 @@ Day | Topic
 **86** | [Exploiting GraphQL - Blog](/days/day86.md)
 **87** | [Exploiting Email Systems - Talk](/days/day87.md)
 **88** | [Hacking with DevTools - Tutorial](/days/day88.md)
-**89** | [Exploiting Email Systems - Talk](/days/day89.md)
+**89** | [Common Android Application Vulnerabilities - Talk](/days/day89.md)
 
 
