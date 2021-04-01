@@ -101,5 +101,7 @@ Day | Topic
 **88** | [Hacking with DevTools - Tutorial](/days/day88.md)
 **89** | [Common Android Application Vulnerabilities - Talk](/days/day89.md)
 **90** | [SAML XML Injection - Research Blog](/days/day90.md)
+**91** | [Finding Access Control & Authorization Issues with Burp - Blogs](/days/day91.md)
 
+ 
 
