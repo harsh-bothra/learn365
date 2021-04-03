@@ -103,6 +103,7 @@ Day | Topic
 **90** | [SAML XML Injection - Research Blog](/days/day90.md)
 **91** | [Finding Access Control & Authorization Issues with Burp - Blogs](/days/day91.md)
 **92** | [OAuth 2.0 Misimplementation, Vulnerabilities, and Best Practices - Talk](/days/day92.md)
+**93** | [JWT Attacks - Talk](/days/day93.md)
 
  
 
