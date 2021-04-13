@@ -104,6 +104,8 @@ Day | Topic
 **91** | [Finding Access Control & Authorization Issues with Burp - Blogs](/days/day91.md)
 **92** | [OAuth 2.0 Misimplementation, Vulnerabilities, and Best Practices - Talk](/days/day92.md)
 **93** | [JWT Attacks - Talk](/days/day93.md)
+**94-102** | [Random Readings](/days/day94_102.md)
+**103** | [Attacking Ruby on Rails Applications - Whitepaper](/days/day103.md)
 
  
 
