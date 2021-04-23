@@ -58,6 +58,10 @@ like so:
 5. SSRF
 6. WAF Bypass
 ```
+#### resource
+```
+https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers
+```
 #### Practice & Tools
 ```
 https://github.com/mrtc0/abusing-hop-by-hop-header
