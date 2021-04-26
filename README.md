@@ -106,6 +106,16 @@ Day | Topic
 **93** | [JWT Attacks - Talk](/days/day93.md)
 **94-102** | [Random Readings](/days/day94_102.md)
 **103** | [Attacking Ruby on Rails Applications - Whitepaper](/days/day103.md)
+**104** | [Pentesting a Chrome Extension: Real Life Case Study - Blog](/days/day104.md)
+**105** | [XXE Simplified - Blog](/days/day105.md)
+**106** | [Web Hacking Pro Tips #9 with @zseano - Talk](/days/day106.md)
+**107** | [JS Prototype Pollution - Blog](/days/day107.md)
+**108** | [XSS via GraphQL Endpoint - Blog](/days/day108.md)
+**109** | [WS-2016-7107: CSRF tokens in Spring and the BREACH attack - Blog](/days/day109.md)
+**110** | [AWS SSRF Metadata Leakage - Blog](/days/day110.md)
+**111** | [Burp Suite Extension Development - Blog](/days/day111.md)
+**112-115** | [Random Readings](/days/day112_115.md)
+**116** | [Hacking OAuth Apps Pt-1 - Tutorial](/days/day116.md)
 
  
 
