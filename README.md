@@ -116,6 +116,15 @@ Day | Topic
 **111** | [Burp Suite Extension Development - Blog](/days/day111.md)
 **112-115** | [Random Readings](/days/day112_115.md)
 **116** | [Hacking OAuth Apps Pt-1 - Tutorial](/days/day116.md)
+**117** | [Portable Data exFiltration: XSS for PDFs - Blog](/days/day117.md)
+**118** | [PoC code and a case study on Task Hijacking in Android explaining how and why it works. (aka StrandHogg) - Blog](/days/day118.md)
+**119** | [OAuth - Flawed CSRF Protection - Tutorial](/days/day119.md)
+**120** | [Hacking Electron Apps with Electronegativity - Talk](/days/day120.md)
+**121** | [Awesome ElectronJS Hacking Resources](/days/day121.md)
+**122** | [Pentesting Blockchain Solutions - Tutorial](/days/day122.md)
+**123-124** | [Random Readings](/days/day123_124.md)
+**125** | [Oversized XML Attack - Wiki](/days/day125.md)
+**126** | [XML Complexity Attack in Soap Header - Wiki](/days/day126.md)
 
  
 
