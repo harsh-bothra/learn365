@@ -22,7 +22,7 @@ A GraphQL operation can be of type:
 - A GraphQL document can contain one or more of these operations (i.e multiple queries/mutations/subscriptions).
 - Mutations queries modify data in the data store and returns a value.
 - Fields: describes a discrete piece of info. This info could be simple or complex with relationships between data.
-- Directives are identifiers that add additional functionality wi/o affecting the value of the response but can affect what response comes back to the client.
+- Directives are identifiers that add additional functionality without affecting the value of the response but can affect what response comes back to the client.
 ```
 
 ### Introspection Queries
@@ -49,7 +49,7 @@ Note that introspection queries start with __
 
 - Unauthenticated Access to the GraphQL Endpoint
 1. Supposed your target runs GraphQL, now as an unauthenticated user hit the following URL: 
-https://your_target/graphiql
+https://your_target/graphql
 2. If you are able to access the GraphQL Console, try running some schema extraction or other queries
 3. Alternatively you can also try to query https://your_target_url/graphql?query={query_here} 
 4. If you are able to extract information as an unauthenticated user, this is an issue.
