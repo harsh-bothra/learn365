@@ -149,7 +149,7 @@ Day | Topic
 **147** | [Finding and Exploiting Unintended Functionality in Main Web App APIs - Blog](/days/day147.md)
 **148** | [SecuriTEA & Crumpets - Episode 6 - Gareth Heyes - Hackvertor - Talk](/days/day148.md)
 **149** | [GraphQL CSRF - Blog](/days/day149.md)
-**150** | [Deep dive into ART(Android Runtime) for dynamic binary analysis | SungHyoun Song | Nullcon 2021 - Talk](/days/day150.md)
+**150** | [Deep dive into ART(Android Runtime) for dynamic binary analysis - SungHyoun Song - Nullcon 2021 - Talk](/days/day150.md)
 **151** | [13 Nagios Vulnerabilities - Blog](/days/day151.md)
 
  
