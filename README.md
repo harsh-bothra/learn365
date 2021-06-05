@@ -4,7 +4,7 @@ This repository contains all the information shared during my Learn 365 Challeng
 ___
 S.NO | Mind Map
 --- | ---
-**1** |  [2FA Bypass Techniques](https://www.mindmeister.com/1736437018/2fa-bypass-techniques?fullscreen=1)
+**1** |  [2FA Bypass Techniques](https://t.co/HPi5ZP2SKG?amp=1)
 **2** |  [Scope Based Recon](https://www.xmind.net/m/hKKexj/)
 **3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D)
 **4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png)
