@@ -151,6 +151,11 @@ Day | Topic
 **149** | [GraphQL CSRF - Blog](/days/day149.md)
 **150** | [Deep dive into ART(Android Runtime) for dynamic binary analysis | SungHyoun Song | Nullcon 2021 - Talk](/days/day150.md)
 **151** | [13 Nagios Vulnerabilities - Blog](/days/day151.md)
+**152** | [Frida Scripting Guide - Blog](/days/day152.md)
+**153** | [Android Exported Activities and how to exploit them - Talk](/days/day153.md)
+**154** | [XXE-scape through the front door: circumventing the firewall with HTTP request smuggling - Blog](/days/day154.md)
+**155** | [Turning Blind RCE into Good RCE via DNS Exfiltration using Collabfiltrator - Blog](/days/day155.md)
+**156** | [XSS in AWS Console - Blog](/days/day156.md)
 
  
 
