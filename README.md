@@ -1,10 +1,10 @@
-# learn365
+# Learn365
 
 This repository contains all the information shared during my Learn 365 Challenge. Learn 365 is a challenge to keep the learning spirit going on and challenge myself to learn something daily for the whole year, it can be anything from infosec to general life. Follow me on Twitter for Regular Updates: [Harsh Bothra](https://twitter.com/harshbothra_). Huge thanks to [Mehedi Hasan Remon](https://twitter.com/remonsec), who originally created and maintained this repository. 
 ___
 S.NO | Mind Map
 --- | ---
-**1** |  [2FA Bypass Techniques](https://www.mindmeister.com/1736437018/2fa-bypass-techniques?fullscreen=1)
+**1** |  [2FA Bypass Techniques](https://t.co/HPi5ZP2SKG?amp=1)
 **2** |  [Scope Based Recon](https://www.xmind.net/m/hKKexj/)
 **3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D)
 **4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png)
