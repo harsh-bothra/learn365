@@ -156,6 +156,10 @@ Day | Topic
 **154** | [XXE-scape through the front door: circumventing the firewall with HTTP request smuggling - Blog](/days/day154.md)
 **155** | [Turning Blind RCE into Good RCE via DNS Exfiltration using Collabfiltrator - Blog](/days/day155.md)
 **156** | [XSS in AWS Console - Blog](/days/day156.md)
+**157** | [Adventures into HTTP2 and HTTP3 - Blog](/days/day157.md)
+**158** | [AppCache's forgotten tales - Blog](/days/day158.md)
+**159** | [CVE-2021-33564 Argument Injection in Ruby Dragonfly - Blog](/days/day159.md)
+**160** | [DevSecOps 100 - Introductory Couse [Free] - Course](/days/day160.md)
 
  
 
