@@ -160,6 +160,12 @@ Day | Topic
 **158** | [AppCache's forgotten tales - Blog](/days/day158.md)
 **159** | [CVE-2021-33564 Argument Injection in Ruby Dragonfly - Blog](/days/day159.md)
 **160** | [DevSecOps 100 - Introductory Couse [Free] - Course](/days/day160.md)
+**161** | [Unexpected Execution: Wild Ways Code Execution can Occur in Python - Talk](/days/day161.md)
+**162** | [Retrieving AWS security credentials from the AWS console - Blog](/days/day162.md)
+**163** | [Object Injection to SQL Injection & NoSql Injection Cheatsheet - Blog](/days/day163.md)
+**164** | [HTTP Parameter Pollution - Blog](/days/day164.md)
+**165** | [XXE Workshop - Labs](/days/day165.md)
+**166** | [How to Analyze Code for Vulnerabilities - Talk](/days/day166.md)
 
  
 
