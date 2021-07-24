@@ -197,7 +197,12 @@ Day | Topic
 **195** | [What is a Browser Security Sandbox?! (Learn to Hack Firefox) - Video](/days/day195.md)
 **196** | [WILSON Cloud Respwnder - Blog](/days/day196.md)
 **197** | [$20,000 RCE in GitLab via 0day in exiftool metadata processing library CVE-2021-22204 - Video](/days/day197.md)
-
-**166** | [How to Analyze Code for Vulnerabilities - Talk](/days/day166.md)
- 
+**198** | [Padding Oracle Attacks - Video](/days/day198.md)
+**199** | [Demystifying the state of kubernetes cluster security - Video](/days/day199.md)
+**200** | [Two One-liners for Quick ColdFusion Static Analysis Security Testing - Blog](/days/day200.md)
+**201** | [So many different techniques to learn here! [CTF walkthrough] - Video](/days/day201.md)
+**202** | [UDP Technology IP Camera vulnerabilities - Blog](/days/day202.md)
+**203** | [Exploiting the Sudo Baron Samedit vulnerability (CVE-2021-3156) on VMWare vCenter Server 7.0 - Blog](/days/day203.md)
+**204** | [Reflected XSS Through Insecure Dynamic Loading - Blog](/days/day204.md)
+**205** | [Stored XSS via Mermaid Prototype Pollution vulnerability - Blog](/days/day205.md)
 
