@@ -205,4 +205,12 @@ Day | Topic
 **203** | [Exploiting the Sudo Baron Samedit vulnerability (CVE-2021-3156) on VMWare vCenter Server 7.0 - Blog](/days/day203.md)
 **204** | [Reflected XSS Through Insecure Dynamic Loading - Blog](/days/day204.md)
 **205** | [Stored XSS via Mermaid Prototype Pollution vulnerability - Blog](/days/day205.md)
+**206** | [Getting Partial AWS Account IDs for any Cloudfront Website - Blog](/days/day206.md)
+**207** | [Remote code execution in cdnjs of Cloudflare - Blog](/days/day207.md)
+**208** | [Docker Security Series - Playlist](/days/day208.md)
+**209** | [REvil Vanishes! - Chrome Zero-Day Vulnerability, iOS WiFi SSID Bug, Patch Tuesday Review - Video](/days/day209.md)
+**210** | [How to Build a Phishing Engagement – Coding TTP’s - Webcast](/days/day210.md)
+
+
+
 
