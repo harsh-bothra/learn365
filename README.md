@@ -327,7 +327,7 @@ Day | Topic
 **325** | [Android App Hacking Workshop](/days/day325.md)
 **326** | [Secondary Contexts Slides](/days/day326.md)
 **327** | [HTTP/2 request smuggling (explained using beer)](/days/day327.md)
-**328** | [Scanning for hardcoded secrets in source code | Security Simplified](/days/day328.md)
+**328** | [Scanning for hardcoded secrets in source code - Security Simplified](/days/day328.md)
 **329** | [Staying sane in bug bounties](/days/day329.md)
 **330** | [How Your E-book Might Be Reading You: Exploiting EPUB Reading Systems](/days/day330.md)
 **331** | [Attacking SAML implementations](/days/day331.md)
