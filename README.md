@@ -347,3 +347,4 @@ Day | Topic
 **345-363** | [Random Readings](/days/day345-363.md)
 **364** | [Metasploit Basics for Hackers](/days/day364.md)
 **365** | [NCC Group’s Cryptopals Guided Tour!](/days/day365.md)
+**365** | [Advance Malicious File Upload](/days/day366.md)
