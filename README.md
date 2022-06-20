@@ -9,6 +9,7 @@ S.NO | Mind Map
 **3** |  [Cookie Based Authentication Vulnerabilities](http://www.xmind.net/m/2FwJ7D)
 **4** |  [Unauthenticated JIRA CVEs](https://raw.githubusercontent.com/harsh-bothra/learn365/main/MindMaps/JIRA_CVEs.png)
 **5** |  [Android Application Penetration Testing Checklist](https://www.xmind.net/m/GkgaYH/)
+**6** |  [Maicious File Upload Checklist](/days/day366.md)
 ___
 Day | Topic
 --- | ---
